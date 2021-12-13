@@ -3,7 +3,7 @@
  *
  * Designed to properly split up a given tick among subsystems
  * Note: if you read parts of this code and think "why is it doing it that way"
- * Odds are, there is a reason
+ * Odds are, there is a reason n
  *
  **/
 
